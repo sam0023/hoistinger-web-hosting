@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hoistinger-web-hosting/static/css/main.073c9b0a.css",
-    "main.js": "/hoistinger-web-hosting/static/js/main.b7e842b8.js",
+    "main.js": "/hoistinger-web-hosting/static/js/main.c68c7e0d.js",
     "static/js/787.28cb0dcd.chunk.js": "/hoistinger-web-hosting/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/hoistinger-web-hosting/index.html",
     "main.073c9b0a.css.map": "/hoistinger-web-hosting/static/css/main.073c9b0a.css.map",
-    "main.b7e842b8.js.map": "/hoistinger-web-hosting/static/js/main.b7e842b8.js.map",
+    "main.c68c7e0d.js.map": "/hoistinger-web-hosting/static/js/main.c68c7e0d.js.map",
     "787.28cb0dcd.chunk.js.map": "/hoistinger-web-hosting/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b7e842b8.js"
+    "static/js/main.c68c7e0d.js"
   ]
 }
