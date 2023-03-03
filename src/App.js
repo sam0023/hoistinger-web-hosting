@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-       <h1>This react wesite is hosted with help og github</h1>
+       <h1>This react wesite is hosted with help of github</h1>
     </div>
   );
 }
